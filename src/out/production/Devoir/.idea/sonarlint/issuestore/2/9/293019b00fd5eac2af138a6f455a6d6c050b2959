@@ -1,0 +1,18 @@
+
+Q
+java:S1854";Remove this useless assignment to local variable "joueur3".(³»¤«
+V
+java:S1854";Remove this useless assignment to local variable "joueur2".(Š¿ìğûÿÿÿÿ
+Q
+java:S1854";Remove this useless assignment to local variable "joueur1".(×£şĞ
+B
+java:S1481",Remove this unused "joueur1" local variable.(×£şĞ
+G
+java:S1481",Remove this unused "joueur2" local variable.(Š¿ìğûÿÿÿÿ
+B
+java:S1481",Remove this unused "joueur3" local variable.(³»¤«
+@	java:S106"+Replace this use of System.out by a logger.(‘ş
+E	java:S106"+Replace this use of System.out by a logger.(å´‰‰ùÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Ñ¿àÆ
+@	java:S106"+Replace this use of System.out by a logger.(˜ÅÇ¥
+E	java:S106"+Replace this use of System.out by a logger.(Ê †êùÿÿÿÿ
